@@ -1,7 +1,7 @@
-ImplementingExceptionsWithRuby
+Implementing Exceptions With Ruby
 ==============================
 
-This is the code used in the set of videos (English version) made by Hernan Wilkinson of 10Pines.
+This is the code used in the set of videos (English version) made by Hernan Wilkinson of 10Pines about implementing an Exception model using Ruby, TDD and just Objects and Messages
 
 The code is separeted in directories, one per episode.
 
