@@ -1,0 +1,7 @@
+TO DO:
+1) Design Smell: We should not use a class instance variable to reference the handler in Proc
+2) We have to evaluate the handler only if the exception type matches
+3) What should happened if no exception handler is found?
+
+Done:
+- We should stop the execution after the message throw

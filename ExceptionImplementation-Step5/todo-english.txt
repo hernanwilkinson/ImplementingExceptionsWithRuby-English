@@ -1,0 +1,12 @@
+TO DO:
+1) Design Smell: Same issue with handler_not_found_strategy in UnhandleException
+2) We have to evaluate the handler only if the exception type matches
+3) Implement nested handlers
+4) Test default_handler_not_found_strategy
+
+Done:
+- We should stop the execution after the message throw
+- What should happened if no exception handler is found?
+1) Design Smell: We should not use a class instance variable to reference the handler in Proc
+   Same issue for return_closure
+   Same issue with exception_to_handle_class
